@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luiz Eduardo
-- 👀 I’m interested in PHP, Laravel, Javascript, Vue.js, React, Html, CSS
+- 👀 I’m interested in PHP, Laravel, Javascript, Vue.js, React, Html, CSS, Fractals Networks.
 - 🌱 I’m currently learning LARAVEL 8 , PHP 8
 - 💞️ I’m looking to collaborate on a project about a Colaborative Network conecting people from all over the World to help the resoucers that everybody needs, to reach where they are needed. 
 - 📫 How to reach me ... Lsantac@gmail.com 
